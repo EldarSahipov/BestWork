@@ -20,4 +20,5 @@ public class AppController {
     public String register_completed() {
         return "registration_completed";
     }
+
 }
