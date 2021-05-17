@@ -10,5 +10,6 @@ public class BackApplication {
         SpringApplication.run(BackApplication.class, args);
         System.out.println();
         System.out.println();
+        System.out.println();
     }
 }
