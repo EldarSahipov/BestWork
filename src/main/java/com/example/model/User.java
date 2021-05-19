@@ -1,7 +1,6 @@
 package com.example.model;
 
 import lombok.Data;
-import org.joda.time.DateTime;
 
 import java.sql.Date;
 
