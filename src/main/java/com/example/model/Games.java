@@ -13,4 +13,6 @@ public class Games {
     int winner;
     Date start_date;
     Date end_date;
+    String gameId;
+    String gameStatus;
 }

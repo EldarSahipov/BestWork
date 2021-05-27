@@ -4,9 +4,8 @@ import lombok.Data;
 
 @Data
 public class GamePlay {
-
     private SeaBattle type;
-    private Integer coordinatesX;
-    private Integer coordinatesY;
+    private Integer coordinateX;
+    private Integer coordinateY;
     private String gameId;
 }
